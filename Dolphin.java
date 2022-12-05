@@ -15,6 +15,15 @@ public class Dolphin extends Actor
     public void act() 
     {
         // Add your action code here.
-        if(Greenfoot.isKeyDown("left"
-    }    
+        if(Greenfoot.isKeyDown("left"))
+        {
+            move(-5);
+        }
+        else if(Greenfoot.isKeyDown("Right"))
+        {
+            move(5);
+        }
+        
+        removeTouching(Bread.class);
+    }
 }
