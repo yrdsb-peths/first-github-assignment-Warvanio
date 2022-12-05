@@ -1,13 +1,14 @@
-# Welcome to our GitHub classroom!
+# Hungry Animal Tutorial
+This is the README.md file.
+Change this file to show your intended audience what you want them to see.
 
-Do the following to Complete this assignment:
+You can use **Markdown** syntax to format this file to do things like **bold** or *italicize* text.
+[Markdown basics](https://www.markdownguide.org/getting-started/)
 
-1. Begin editing this file by clicking the 'pen' symbol above.
+This particular repository is the starting template for the Hungry Elephant tutorial.
 
-2. Enter your First Name: Warvan
+[Part 1: Greenfoot Basics](https://youtu.be/zxaa3X0MihI)
 
-3. Enter your favourite animal: Cats
+[Part 2: Game Enhancements](https://youtu.be/TwID9i0Ey6o)
 
-4. Now click the green 'commit changes' button at the bottom.
-
-5. Done!
+[Part 3: Final Touches](https://youtu.be/GT-eFwa4Abc)
